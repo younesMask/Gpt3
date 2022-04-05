@@ -40,7 +40,7 @@ const Footer = () => {
            
         </div>
      </div>
-     <div className="gpt3__footer-copiright">
+     <div className="gpt3__footer-copyright">
        <p>© 2022 GPT-3. All rights reserved. By younes Maskouf</p>
      </div>
    </div>
